@@ -12,7 +12,7 @@ export const plantList = [
   {
     name: "monstera",
     category: "classique",
-    id: "1ed",
+    id: "1a",
     light: 2,
     water: 3,
     cover: monstera,
@@ -21,7 +21,7 @@ export const plantList = [
   {
     name: "ficus lyrata",
     category: "classique",
-    id: "2ab",
+    id: "2b",
     light: 3,
     water: 1,
     cover: lyrata,
@@ -31,7 +31,7 @@ export const plantList = [
   {
     name: "pothos argenté",
     category: "classique",
-    id: "3sd",
+    id: "3c",
     light: 1,
     water: 2,
     cover: pothos,
@@ -41,7 +41,7 @@ export const plantList = [
   {
     name: "calathea",
     category: "classique",
-    id: "4kk",
+    id: "4d",
     light: 2,
     water: 3,
     cover: calathea,
@@ -51,7 +51,7 @@ export const plantList = [
   {
     name: "olivier",
     category: "extérieur",
-    id: "5pl",
+    id: "5e",
     light: 3,
     water: 1,
     cover: olivier,
@@ -61,7 +61,7 @@ export const plantList = [
   {
     name: "cactus",
     category: "plante grasse",
-    id: "8fp",
+    id: "8f",
     light: 2,
     water: 1,
     cover: cactus,
@@ -70,7 +70,7 @@ export const plantList = [
   {
     name: "basilique",
     category: "extérieur",
-    id: "7ie",
+    id: "7g",
     light: 2,
     water: 3,
     cover: basil,
@@ -79,7 +79,7 @@ export const plantList = [
   {
     name: "succulente",
     category: "plante grasse",
-    id: "9vn",
+    id: "9h",
     light: 2,
     water: 1,
     cover: succulent,
@@ -89,7 +89,7 @@ export const plantList = [
   {
     name: "menthe",
     category: "extérieur",
-    id: "6uo",
+    id: "6i",
     light: 2,
     water: 2,
     cover: mint,
