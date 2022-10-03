@@ -3,7 +3,9 @@ import Water from "../assets/water.svg";
 
 const quantityLabel = {
   1: "un peu",
+
   2: "pas mal quand meme ",
+
   3: "c'est énorme",
 };
 
